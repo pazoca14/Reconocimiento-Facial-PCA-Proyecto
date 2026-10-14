@@ -1,0 +1,12 @@
+# Sistema de Reconocimiento Facial con PCA
+
+Proyecto de Álgebra Lineal Avanzada - Universidad Anáhuac México. Sistema web desarrollado en Python que implementa Análisis de Componentes Principales (PCA), la matriz de Gram y la distancia de Mahalanobis para el reconocimiento biométrico de rostros en tiempo real.
+
+## Requisitos Previos
+- Python 3.8 o superior instalado en el equipo.
+
+## Instrucciones de Uso (Máquina Limpia)
+
+1. **Instalar las dependencias del proyecto:**
+   ```bash
+   pip install -r requirements.txt
